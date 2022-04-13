@@ -89,5 +89,9 @@ main .hero button#btnLearnMore{
         top: 0;
         z-index: -1;
     }
+
+    main .hero .content{
+        margin-bottom: 24px;
+    }
 }
 
